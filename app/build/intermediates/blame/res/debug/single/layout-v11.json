@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/shivam/Android/app_projects/ConnecttoXampp/D:\\SuitStudio\\ConnecttoXampp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/home/shivam/Android/app_projects/ConnecttoXampp/C:\\Users\\unic\\.android\\build-cache\\71b9bb20ff83e23cd728692b7f158d171d5dfbd7\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/shivam/Android/app_projects/ConnecttoXampp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/shivam/.android/build-cache/c32d3a96f718d45f38ab835f5fe2f37d283ec0e3/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/shivam/Android/app_projects/ConnecttoXampp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/shivam/.android/build-cache/c32d3a96f718d45f38ab835f5fe2f37d283ec0e3/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/shivam/Android/app_projects/ConnecttoXampp/D:\\SuitStudio\\ConnecttoXampp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/home/shivam/Android/app_projects/ConnecttoXampp/C:\\Users\\unic\\.android\\build-cache\\71b9bb20ff83e23cd728692b7f158d171d5dfbd7\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/shivam/Android/app_projects/ConnecttoXampp/D:\\SuitStudio\\ConnecttoXampp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/home/shivam/Android/app_projects/ConnecttoXampp/C:\\Users\\unic\\.android\\build-cache\\71b9bb20ff83e23cd728692b7f158d171d5dfbd7\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/shivam/Android/app_projects/ConnecttoXampp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/shivam/.android/build-cache/c32d3a96f718d45f38ab835f5fe2f37d283ec0e3/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/shivam/Android/app_projects/ConnecttoXampp/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/shivam/.android/build-cache/c32d3a96f718d45f38ab835f5fe2f37d283ec0e3/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/shivam/Android/app_projects/ConnecttoXampp/D:\\SuitStudio\\ConnecttoXampp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/home/shivam/Android/app_projects/ConnecttoXampp/C:\\Users\\unic\\.android\\build-cache\\71b9bb20ff83e23cd728692b7f158d171d5dfbd7\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "/home/shivam/Android/app_projects/ConnecttoXampp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/shivam/.android/build-cache/c32d3a96f718d45f38ab835f5fe2f37d283ec0e3/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/shivam/Android/app_projects/ConnecttoXampp/D:\\SuitStudio\\ConnecttoXampp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/home/shivam/Android/app_projects/ConnecttoXampp/C:\\Users\\unic\\.android\\build-cache\\71b9bb20ff83e23cd728692b7f158d171d5dfbd7\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/shivam/Android/app_projects/ConnecttoXampp/D:\\SuitStudio\\ConnecttoXampp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/home/shivam/Android/app_projects/ConnecttoXampp/C:\\Users\\unic\\.android\\build-cache\\71b9bb20ff83e23cd728692b7f158d171d5dfbd7\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/shivam/Android/app_projects/ConnecttoXampp/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/shivam/.android/build-cache/c32d3a96f718d45f38ab835f5fe2f37d283ec0e3/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

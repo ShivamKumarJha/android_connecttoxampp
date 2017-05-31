@@ -1,0 +1,7 @@
+#Sun May 28 12:15:07 IST 2017
+base.0=D\:\\SuitStudio\\ConnecttoXampp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_985b268324fca00af26fb7eabb5f798751a4cefb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\SuitStudio\\ConnecttoXampp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2983fab248050869f084bfe3623e257e167e7d7d\\classes.dex
+base.1=D\:\\SuitStudio\\ConnecttoXampp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2983fab248050869f084bfe3623e257e167e7d7d
+file.0=D\:\\SuitStudio\\ConnecttoXampp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_985b268324fca00af26fb7eabb5f798751a4cefb\\classes.dex

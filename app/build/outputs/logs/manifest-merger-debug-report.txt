@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:4:1-62
+	android:name
+		ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:4:18-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/shivam/.android/build-cache/c32d3a96f718d45f38ab835f5fe2f37d283ec0e3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/shivam/.android/build-cache/3f68b20fd89363e93816c7a3552dbf8dd8f98d36/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/shivam/.android/build-cache/b37aa5c66105b49d35a9cc4b65be5d8bb8482ea8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/shivam/.android/build-cache/f925276c3da08195d18d7a64441d137e0f22534d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/shivam/.android/build-cache/867c4caff59f10b62219e40d7b13634206c6d565/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/shivam/.android/build-cache/772a53c154706f96649181cd7b01f01f3334243a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/shivam/.android/build-cache/4e0559ee8cc6ef2b8c5535e38f4ad3ef58add8a7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/shivam/.android/build-cache/b84fea69c6bb483be52873861b6734cf4ed92c59/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/shivam/.android/build-cache/d8292ae8870da7677e5325bb8f852e787401ccfd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /home/shivam/.android/build-cache/9260fabc3676f2af2af3cbb2fe91ecd39d843e19/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:12:9-40
+activity#android.connecttoxampp.MainActivity
+ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/shivam/.android/build-cache/c32d3a96f718d45f38ab835f5fe2f37d283ec0e3/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/shivam/.android/build-cache/3f68b20fd89363e93816c7a3552dbf8dd8f98d36/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/shivam/.android/build-cache/b37aa5c66105b49d35a9cc4b65be5d8bb8482ea8/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/shivam/.android/build-cache/f925276c3da08195d18d7a64441d137e0f22534d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/shivam/.android/build-cache/867c4caff59f10b62219e40d7b13634206c6d565/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/shivam/.android/build-cache/772a53c154706f96649181cd7b01f01f3334243a/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/shivam/.android/build-cache/4e0559ee8cc6ef2b8c5535e38f4ad3ef58add8a7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/shivam/.android/build-cache/b84fea69c6bb483be52873861b6734cf4ed92c59/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/shivam/.android/build-cache/d8292ae8870da7677e5325bb8f852e787401ccfd/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /home/shivam/.android/build-cache/9260fabc3676f2af2af3cbb2fe91ecd39d843e19/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/shivam/.android/build-cache/c32d3a96f718d45f38ab835f5fe2f37d283ec0e3/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivam/Android/app_projects/ConnecttoXampp/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/shivam/.android/build-cache/c32d3a96f718d45f38ab835f5fe2f37d283ec0e3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/shivam/.android/build-cache/3f68b20fd89363e93816c7a3552dbf8dd8f98d36/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/shivam/.android/build-cache/b37aa5c66105b49d35a9cc4b65be5d8bb8482ea8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/shivam/.android/build-cache/f925276c3da08195d18d7a64441d137e0f22534d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/shivam/.android/build-cache/867c4caff59f10b62219e40d7b13634206c6d565/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/shivam/.android/build-cache/772a53c154706f96649181cd7b01f01f3334243a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/shivam/.android/build-cache/4e0559ee8cc6ef2b8c5535e38f4ad3ef58add8a7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/shivam/.android/build-cache/b84fea69c6bb483be52873861b6734cf4ed92c59/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/shivam/.android/build-cache/d8292ae8870da7677e5325bb8f852e787401ccfd/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/shivam/.android/build-cache/c32d3a96f718d45f38ab835f5fe2f37d283ec0e3/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/shivam/.android/build-cache/c32d3a96f718d45f38ab835f5fe2f37d283ec0e3/output/AndroidManifest.xml:26:9-47
